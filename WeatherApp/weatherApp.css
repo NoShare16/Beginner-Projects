@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: darkgray;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(https://source.unsplash.com/1600x900/?raincity) ;
+}
+
+.card {
+    background-color:hsla(217, 51%, 8%, 0.848);
+    color: whitesmoke;
+    width: 100%;
+    max-width: 420px;
+    border-radius: 20px;
+    padding: 2em;
+    margin: 1em;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    
+}
+

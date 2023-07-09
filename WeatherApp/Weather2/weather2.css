@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Catamaran', sans-serif;
+    background-image: url(https://source.unsplash.com/1600x900/?germany);
+}
+
+.card {
+    background-color: rgba(11, 27, 63, 0.859);
+    color: whitesmoke;
+    border-radius: 16px;
+    padding: 1rem;
+    max-width: 420px;
+    width: 100%;
+}
+
+p {
+    margin: 0.2rem;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    border-radius: 16px;
+    width: 10rem;
+    height: 1.3rem;
+    background-color: black;
+    color: whitesmoke;
+}
+
+button {
+    border-radius: 16px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
